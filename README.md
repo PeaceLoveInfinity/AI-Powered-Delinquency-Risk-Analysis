@@ -1,13 +1,5 @@
 # 📊 AI-Powered Delinquency Risk Analysis
 
-
-
-
-
-
-
-\
-
 ---
 
 ## 🎯 Project Overview
